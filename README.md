@@ -12,6 +12,7 @@ Tech stack: HTML, SCSS, JavaScript, React, Redux <br>
 
 [Sushi delivery](https://yuliiatsova.github.io/RollsFamily-project/) - This represents an individual prototype project for a product delivery page.
 Tech stack: HTML, SCSS, BEM, JavaScript. <br>
+
 [Countries' flags](https://yuliiatsova.github.io/React-project-countries/) - It's a solo prototype project of countries and their flags written.
 Tech stack: HTML, CSS, JavaScript, React, Styled components.  <br>
 
